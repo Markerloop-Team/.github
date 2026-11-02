@@ -24,8 +24,9 @@ Our own product: a shared backend and site builder where an AI agent builds and 
 | [files-service](https://github.com/Markerloop-Team/files-service) | Uploads, dedup, quotas, usage index, garbage collection |
 | [user-service](https://github.com/Markerloop-Team/user-service) | Users and RBAC |
 | [dictionary-service](https://github.com/Markerloop-Team/dictionary-service) | Translations and reference data |
+| [notification-service](https://github.com/Markerloop-Team/notification-service) | Email, Telegram delivery with retries, deploy webhooks |
+| [markerloop-bot](https://github.com/Markerloop-Team/markerloop-bot) | Telegram bot: login, OAuth tokens, idempotent notifications |
 | [go-sdk](https://github.com/Markerloop-Team/go-sdk) | Shared Go SDK: JWT, middleware, response envelope |
-| [dev-cli](https://github.com/Markerloop-Team/dev-cli) | Developer CLI |
 | [markerloop-landing](https://github.com/Markerloop-Team/markerloop-landing) | markerloop.com (Astro) |
 
 Live demos of products we shipped: [showroom.markerloop.com](https://showroom.markerloop.com)
