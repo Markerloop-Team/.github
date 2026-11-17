@@ -29,6 +29,14 @@ Our own product: a shared backend and site builder where an AI agent builds and 
 | [go-sdk](https://github.com/Markerloop-Team/go-sdk) | Shared Go SDK: JWT, middleware, response envelope |
 | [markerloop-landing](https://github.com/Markerloop-Team/markerloop-landing) | markerloop.com (Astro) |
 
+## Open source
+
+Tools we built for ourselves and gave away. Free to use, MIT, pull requests welcome.
+
+| Repository | What it is | Stack |
+|---|---|---|
+| [tynda](https://github.com/Markerloop-Team/tynda) | A small Mac app for talking instead of typing: hold fn, speak, and the text is typed where the cursor is. Speech is recognised on the Mac itself and nothing is saved · [tynda.markerloop.com](https://tynda.markerloop.com) | Objective-C, Whisper on MLX |
+
 Live demos of products we shipped: [showroom.markerloop.com](https://showroom.markerloop.com)
 
 **Products behind them:** a B2C marketplace inside a banking ecosystem (Alatau City Market, ex-Jmart), a wholesale B2B marketplace, a travel booking app, theatre ticketing ([demo](https://showroom.markerloop.com/vteatre/)), an event platform for Kazakhstan's national postal operator ([demo](https://showroom.markerloop.com/qazpost-event/)).
