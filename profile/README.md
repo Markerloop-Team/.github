@@ -39,6 +39,6 @@ Tools we built for ourselves and gave away. Free to use, MIT, pull requests welc
 
 Live demos of products we shipped: [showroom.markerloop.com](https://showroom.markerloop.com)
 
-**Products behind them:** a B2C marketplace inside a banking ecosystem (Alatau City Market, ex-Jmart), a wholesale B2B marketplace, a travel booking app, theatre ticketing ([demo](https://showroom.markerloop.com/ticketing-seat-hold/)), an event platform for Kazakhstan's national postal operator ([demo](https://showroom.markerloop.com/qazpost-event/)).
+**Products behind them:** a B2C marketplace inside a banking ecosystem (Alatau City Market, ex-Jmart), a wholesale B2B marketplace, a travel booking app, theatre ticketing ([demo](https://showroom.markerloop.com/ticketing-seat-hold/)), an event platform for Kazakhstan's national postal operator ([demo](https://showroom.markerloop.com/event-platform/)).
 
 Portfolio with case studies: [markerloop.notion.site/Portfolio](https://markerloop.notion.site/Portfolio-3b1c38e36647810c84efc624f5d91f74) · Site: [markerloop.com](https://markerloop.com)
