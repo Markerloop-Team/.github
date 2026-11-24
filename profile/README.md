@@ -36,6 +36,7 @@ Tools we built for ourselves and gave away. Free to use, MIT, pull requests welc
 | Repository | What it is | Stack |
 |---|---|---|
 | [tynda](https://github.com/Markerloop-Team/tynda) | A small Mac app for talking instead of typing: hold fn, speak, and the text is typed where the cursor is. Speech is recognised on the Mac itself and nothing is saved · [tynda.markerloop.com](https://tynda.markerloop.com) | Objective-C, Whisper on MLX |
+| [retab](https://github.com/Markerloop-Team/retab) | Command-Tab for the Mac with every Chrome profile as its own icon — the account's picture and colour, incognito and guest included. Drop files and links on an icon to open them there. Listens to no keys and never looks at the screen | Objective-C |
 
 Live demos of products we shipped: [showroom.markerloop.com](https://showroom.markerloop.com)
 
